@@ -138,5 +138,5 @@ $ git clone https://github.com/Sebisnow/StampTheWeb.git
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files
+this software and associated documentation files.
 
